@@ -1,7 +1,7 @@
 # Telecom-Customer-Churn-Analysis
 This project aims to analyze and predict customer churn for a telecom company. The project involves data cleaning, exploratory data analysis (EDA), visualization, and predictive modeling. The insights derived from this analysis can help stakeholders identify at-risk customers and make informed decisions to improve customer retention
 Project Workflow
-1. Data Import and Cleaning
+**1. Data Import and Cleaning**
 
 Imported raw customer data from a CSV file into MySQL.
 Performed data cleaning and exploratory data analysis (EDA) using SQL to understand the data structure and trends.
@@ -39,5 +39,7 @@ Added a separate page in the dashboard to visualize customers who are likely to 
 Achieved an accuracy of 85% in predicting customer churn.
 Developed visualizations that allow stakeholders to understand customer churn patterns based on different demographics and factors.
 Integrated predictive analytics into Power BI to identify at-risk customers.
+
 **Conclusion**
+
 This project demonstrates how data analysis, visualization, and machine learning can be combined to provide actionable business insights. The predictive model and visualizations can be used by telecom companies to proactively address customer churn and improve retention strategies.
