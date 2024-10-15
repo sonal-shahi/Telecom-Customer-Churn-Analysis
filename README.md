@@ -33,7 +33,7 @@ WHERE Customer_Status = 'Joined';
 - **Created** measures for total customers, churn rate, new joiners, and customer churn.
 
 ### 4. Predictive Modeling (Python)
-- **Utilized** Python (Jupyter Notebook) to predict potential customer churn using a Random Forest algorithm.
+- **Utilized** Python to predict potential customer churn using a Random Forest algorithm.
 - **Conducted** data preprocessing, including dropping irrelevant columns and label encoding.
 - **Trained** the Random Forest model and evaluated its performance.
 
